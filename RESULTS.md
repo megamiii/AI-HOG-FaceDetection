@@ -32,4 +32,4 @@ The bounding boxes are annotated with their scores, which are the results of NCC
 
 The bounding box with the score 0.70 has the highest similarity with the `template.png` face among all detected regions as it is the closest score to 1. The box with a score of 0.49 has the lowest confidence among the bounding boxes but is still detected as a face as the NCC threshold is set to 0.49.
 
-![Results visualization](result_face_detection.png)
+<img src="result_face_detection.png" alt="Results visualization" width="480" height="270">
