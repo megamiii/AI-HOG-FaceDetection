@@ -174,7 +174,7 @@ Face detection is implemented using thresholding and non-maximum suppression wit
 
 ## Results
 
-For detailed results, including code summaries, visualizations, and findings, please refer to the [Results.md](RESULTS.md) file.
+For detailed results, including code summaries, visualizations, and findings, please refer to the [RESULTS.md](RESULTS.md) file.
 
 
 **References**
