@@ -172,6 +172,11 @@ Face detection is implemented using thresholding and non-maximum suppression wit
 - [IoU (Intersection over Union)](https://medium.com/analytics-vidhya/iou-intersection-over-union-705a39e7acef)
 
 
+## Results
+
+For detailed results, including code summaries, visualizations, and findings, please refer to the [Results.md](Results.md) file.
+
+
 **References**
 
 [1] N. Dalal and B. Triggs, "Histograms of oriented gradients for human detection," in CVPR, 2005.  
